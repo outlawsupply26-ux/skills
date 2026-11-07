@@ -229,3 +229,10 @@ Estrategias e praticas de value based pricing para financas e precificacao.
 ---
 
 [← Voltar para todas as categorias](../README.md)
+
+---
+
+### emitir-nfe-bling
+Emite NF-e de saída no Bling a partir dos pedidos de venda da Shopify, sob demanda, com NCM por categoria e confirmação antes de enviar à SEFAZ.
+
+[Ver skill](./emitir-nfe-bling/)
